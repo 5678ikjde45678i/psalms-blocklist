@@ -100,10 +100,8 @@
 0.0.0.0 op1.0ps.us.edgesuite.net
 0.0.0.0 p-ring.msedge.net
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pi.hole
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 prod.uidapi.com
-0.0.0.0 psalm.pivpn
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 remote-data.urbanairship.com
@@ -140,9 +138,6 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-0.0.0.0 www.gstatic.com
-0.0.0.0 www.opticsplanet.com
-0.0.0.0 www.opticsplanet.com-ipv4.edgesuite.net
 0.0.0.0 yandex.ru
 0.0.0.0 ymatuhin.ru
 0.0.0.0 z-m-gateway.facebook.com
