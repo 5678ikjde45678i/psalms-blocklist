@@ -7,6 +7,17 @@
 0.0.0.0 a-difbd.config.emb-api.com
 0.0.0.0 a-difbd.data.emb-api.com
 0.0.0.0 aan.amazon.com
+0.0.0.0 sponsor.ajay.app
+0.0.0.0 ads.mozilla.org
+0.0.0.0 a308.dscd.akamai.net
+0.0.0.0 e13678.dscb.akamaiedge.net
+0.0.0.0 s-part-0023.t-0009.t-msedge.net
+0.0.0.0 e124943.a.akamaiedge.net
+0.0.0.0 tracking.smartestlifestyletrends.com
+0.0.0.0 play.forgeofempires.com
+0.0.0.0 e1524.e12.akamaiedge.net
+0.0.0.0 mc.prod.ads.prod.webservices.mozgcp.net
+0.0.0.0 mc.prod.ads.prod.webservices.mozgcp.net
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
