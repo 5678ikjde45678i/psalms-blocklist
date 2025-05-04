@@ -18,6 +18,14 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 o66889.ingest.sentry.io
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 w3togo-launches.appsflyersdk.com
+0.0.0.0 collector.snowplow.supercell.com
+0.0.0.0 485f9fb4-6fc1-4a15-adb9-ab9815f38599-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 o315582.ingest.sentry.io
+0.0.0.0 13879f77-c638-4a1d-b668-e23c38aa2e14-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 api.pubnative.net
 0.0.0.0 api.revenuecat.com
 0.0.0.0 api.weather.com
