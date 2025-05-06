@@ -1,3 +1,19 @@
+# ================= #
+# PSALM'S BLOCKLIST
+# ================= #
+# 
+#
+#
+#
+#
+# GITHUB REPOSITORY:
+# https://github.com/5678ikjde45678i/psalms-blocklist/edit/main/ad-and-tracker-blocklist
+#
+# GITHUB RAW FILE: 
+# https://raw.githubusercontent.com/5678ikjde45678i/psalms-blocklist/refs/heads/main/ad-and-tracker-blocklist
+#
+# START OF BLOCKLIST
+# ============================
 0.0.0.0 0.datadog.pool.ntp.org
 0.0.0.0 216.58.202.4.in-addr.arpa
 0.0.0.0 www.bing.com
