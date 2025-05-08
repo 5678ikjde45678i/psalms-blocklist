@@ -110,11 +110,8 @@
 0.0.0.0 canadacentral.api.cognitive.microsoft.com
 0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 census-app.scorecardresearch.com
-0.0.0.0 chat-e2ee.c10r.facebook.com
 0.0.0.0 collector.github.com
 0.0.0.0 config-api.internet.apps.samsung.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
@@ -138,7 +135,6 @@
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 geo.privacymanager.io
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 graph.facebook.com
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 id.google.com
 0.0.0.0 sponsors.ajay.app
@@ -183,8 +179,6 @@
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 src.ebay-us.com
 0.0.0.0 ssl.google-analytics.com
-0.0.0.0 star.c10r.facebook.com
-0.0.0.0 star.fallback.c10r.facebook.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 stats.g.doubleclick.net
