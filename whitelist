@@ -1,0 +1,25 @@
+# ================= #
+# PSALM'S WHITELIST
+# ================= #
+# Date Created: May 17th, 2025
+# Date Last Updated: 
+#
+#
+# =================
+# GITHUB REPOSITORY
+# =================
+# https://github.com/5678ikjde45678i/psalms-blocklist/edit/main/ad-and-tracker-blocklist
+#
+# ===============
+# GITHUB RAW FILE
+# ===============
+# https://raw.githubusercontent.com/5678ikjde45678i/psalms-blocklist/refs/heads/main/ad-and-tracker-blocklist
+#
+# ==================
+# START OF BLOCKLIST
+# ==================
+#
+# ===============
+# Fix Win Updates 
+# ===============
+2.au.download.windowsupdate.com
