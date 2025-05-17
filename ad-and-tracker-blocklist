@@ -37,14 +37,14 @@
 0.0.0.0 aan.amazon.com
 0.0.0.0 sponsor.ajay.app
 0.0.0.0 ads.mozilla.org
-0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10.events.data..com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 x1.c.lencr.org
 0.0.0.0 c.pki.goog
 0.0.0.0 c-tiles.locationiq.com
 0.0.0.0 b-tiles.locationiq.com
 0.0.0.0 a-tiles.locationiq.com
-0.0.0.0 kv501.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv501.prod.do.dsp.mp..com
 0.0.0.0 cp501.prod.do.dsp.mp.microsoft.com
 0.0.0.0 tiles.locationiq.com
 0.0.0.0 config.edge.skype.com
@@ -74,7 +74,6 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 aefd.nelreports.net
 0.0.0.0 aes.us-east.ono.axp.amazon-adsystem.com
-0.0.0.0 aka-dn.gw.samsungapps.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 analytics.twitter.com
 0.0.0.0 api.mixpanel.com
@@ -176,7 +175,6 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sponsor.ajay.app
-0.0.0.0 src.ebay-us.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.hotjar.com
