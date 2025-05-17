@@ -53,7 +53,9 @@
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 ipv4.am.i.mullvad.net
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 collector-pxuarm9b04.perimeterx.net
 0.0.0.0 o315582.ingest.sentry.io
 0.0.0.0 142.10.10.10.in-addr.arpa
 0.0.0.0 a308.dscd.akamai.net
