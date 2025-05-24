@@ -18,10 +18,17 @@
 # ==================
 # START OF ALLOWLIST
 # ==================
-#
+
 # ===============
 # Fix Win Updates 
 # ===============
 2.au.download.windowsupdate.com
 au.download.windowsupdate.com
 iphone-ld.apple.com
+
+# ALLOWLIST
+api.weather.com
+fpinit.itunes.apple.com
+entitlements.itunes.apple.com
+downloaddispatch.itunes.apple.com
+i.ebayimg.com
