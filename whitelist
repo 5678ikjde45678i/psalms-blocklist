@@ -14,7 +14,7 @@
 # GITHUB RAW FILE
 # ===============
 # https://raw.githubusercontent.com/5678ikjde45678i/psalms-blocklist/refs/heads/main/whitelist
-#
+
 # ==================
 # START OF ALLOWLIST
 # ==================
@@ -32,3 +32,5 @@ fpinit.itunes.apple.com
 entitlements.itunes.apple.com
 downloaddispatch.itunes.apple.com
 i.ebayimg.com
+mask-h2.icloud.com
+mask.icloud.com
