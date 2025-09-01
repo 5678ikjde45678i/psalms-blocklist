@@ -1,5 +1,5 @@
 # psalm-blocklist
-psalm's Pi-Hole Ad &amp; Tracker Blocklist
+Psalm's Pi-Hole Ad &amp; Tracker Blocklist
 
 In today's digital age, online tracking and advertising can be overwhelming. With so many trackers and advertisers vying for our attention, it's easy to feel like we're losing control over our own online identity.
 
